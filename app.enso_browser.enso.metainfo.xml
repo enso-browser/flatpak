@@ -2,14 +2,14 @@
 <component type="desktop-application">
   <metadata_license>MIT</metadata_license>
   <project_license>MPL-2.0</project_license>
-  <id>app.zen_browser.zen</id>
+  <id>app.enso_browser.enso</id>
   <name>Zen</name>
   <summary>Stay focused, browse faster</summary>
-  <developer id="app.zen_browser.zen">
-    <name>Zen Team</name>
+  <developer id="app.enso_browser.enso">
+    <name>Enso Team</name>
   </developer>
   <replaces>
-    <id>io.github.zen_browser.zen</id>
+    <id>io.github.enso_browser.enso</id>
   </replaces>
   <description>
     <p>Zen is the best way to browse the web. Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.</p>
@@ -22,32 +22,32 @@
       <li>And more…</li>
     </ul>
   </description>
-  <url type="homepage">https://zen-browser.app</url>
-  <url type="bugtracker">https://github.com/zen-browser/desktop/issues</url>
-  <url type="help">https://docs.zen-browser.app</url>
-  <url type="faq">https://docs.zen-browser.app/faq</url>
-  <url type="donation">https://www.patreon.com/zen_browser</url>
-  <url type="translate">https://crowdin.com/project/zen-browser</url>
-  <url type="contact">https://discord.gg/zen-browser</url>
-  <url type="vcs-browser">https://github.com/zen-browser</url>
-  <url type="contribute">https://docs.zen-browser.app/contribute/CONTRIBUTING</url>
+  <url type="homepage">https://enso-browser.app</url>
+  <url type="bugtracker">https://github.com/enso-browser/desktop/issues</url>
+  <url type="help">https://docs.enso-browser.app</url>
+  <url type="faq">https://docs.enso-browser.app/faq</url>
+  <url type="donation">https://www.patreon.com/enso_browser</url>
+  <url type="translate">https://crowdin.com/project/enso-browser</url>
+  <url type="contact">https://discord.gg/enso-browser</url>
+  <url type="vcs-browser">https://github.com/enso-browser</url>
+  <url type="contribute">https://docs.enso-browser.app/contribute/CONTRIBUTING</url>
   <branding>
     <color type="primary" scheme_preference="light">#d9d9d9</color>
     <color type="primary" scheme_preference="dark">#f5f5f5</color>
   </branding>
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/zen-browser/www/refs/heads/main/src/assets/browser.png</image>
+      <image>https://raw.githubusercontent.com/enso-browser/www/refs/heads/main/src/assets/browser.png</image>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/zen-browser/www/refs/heads/main/src/assets/browser-splitview.png</image>
+      <image>https://raw.githubusercontent.com/enso-browser/www/refs/heads/main/src/assets/browser-splitview.png</image>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/zen-browser/www/refs/heads/main/src/assets/browser-compactmode.png</image>
+      <image>https://raw.githubusercontent.com/enso-browser/www/refs/heads/main/src/assets/browser-compactmode.png</image>
     </screenshot>
   </screenshots>
   <content_rating type="oars-1.1"/>
-  <launchable type="desktop-id">app.zen_browser.zen.desktop</launchable>
+  <launchable type="desktop-id">app.enso_browser.enso.desktop</launchable>
   <requires>
     <display_length compare="ge">450</display_length>
   </requires>
@@ -60,352 +60,352 @@
   </supports>
   <releases>
     <release version="1.18.5b" date="2026-02-06T21:43:56.713Z">
-      <url type="details">https://zen-browser.app/release-notes/1.18.5b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.18.5b</url>
     </release>
     <release version="1.18.4b" date="2026-02-04T10:20:44.757Z">
-      <url type="details">https://zen-browser.app/release-notes/1.18.4b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.18.4b</url>
     </release>
     <release version="1.18.3b" date="2026-01-30T01:40:03.257Z">
-      <url type="details">https://zen-browser.app/release-notes/1.18.3b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.18.3b</url>
     </release>
     <release version="1.18.2b" date="2026-01-28T07:28:44.119Z">
-      <url type="details">https://zen-browser.app/release-notes/1.18.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.18.2b</url>
     </release>
     <release version="1.18.1b" date="2026-01-24T22:51:07.956Z">
-      <url type="details">https://zen-browser.app/release-notes/1.18.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.18.1b</url>
     </release>
     <release version="1.18b" date="2026-01-23T20:50:10.161Z">
-      <url type="details">https://zen-browser.app/release-notes/1.18b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.18b</url>
     </release>
     <release version="1.17.15b" date="2025-12-21T21:49:47.985Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.15b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.15b</url>
     </release>
     <release version="1.17.14b" date="2025-12-14T11:20:24.343Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.14b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.14b</url>
     </release>
     <release version="1.17.13b" date="2025-12-12T11:27:58.524Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.13b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.13b</url>
     </release>
     <release version="1.17.12b" date="2025-12-01T14:22:40.165Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.12b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.12b</url>
     </release>
     <release version="1.17.11b" date="2025-11-29T10:36:46.757Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.11b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.11b</url>
     </release>
     <release version="1.17.10b" date="2025-11-26T13:56:22.925Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.10b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.10b</url>
     </release>
     <release version="1.17.9b" date="2025-11-24T21:26:51.003Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.9b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.9b</url>
     </release>
     <release version="1.17.8b" date="2025-11-20T18:01:55.754Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.8b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.8b</url>
     </release>
     <release version="1.17.7b" date="2025-11-16T18:12:41.839Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.7b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.7b</url>
     </release>
     <release version="1.17.6b" date="2025-11-09T18:48:46.145Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.6b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.6b</url>
     </release>
     <release version="1.17.5b" date="2025-11-05T10:07:46.876Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.5b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.5b</url>
     </release>
     <release version="1.17.4b" date="2025-10-30T21:16:38.325Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.4b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.4b</url>
     </release>
     <release version="1.17.3b" date="2025-10-25T09:52:57.805Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.3b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.3b</url>
     </release>
     <release version="1.17.2b" date="2025-10-24T00:27:48.125Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.2b</url>
     </release>
     <release version="1.17.1b" date="2025-10-23T00:19:33.996Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17.1b</url>
     </release>
     <release version="1.17b" date="2025-10-21T23:05:16.623Z">
-      <url type="details">https://zen-browser.app/release-notes/1.17b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.17b</url>
     </release>
     <release version="1.16.4b" date="2025-10-08T22:28:36.550Z">
-      <url type="details">https://zen-browser.app/release-notes/1.16.4b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.16.4b</url>
     </release>
     <release version="1.16.3b" date="2025-10-04T12:46:42.653Z">
-      <url type="details">https://zen-browser.app/release-notes/1.16.3b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.16.3b</url>
     </release>
     <release version="1.16.2b" date="2025-09-29T21:03:28.209Z">
-      <url type="details">https://zen-browser.app/release-notes/1.16.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.16.2b</url>
     </release>
     <release version="1.16.1b" date="2025-09-25T20:19:47.293Z">
-      <url type="details">https://zen-browser.app/release-notes/1.16.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.16.1b</url>
     </release>
     <release version="1.16b" date="2025-09-22T19:09:48.130Z">
-      <url type="details">https://zen-browser.app/release-notes/1.16b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.16b</url>
     </release>
     <release version="1.15.5b" date="2025-09-07T19:02:27.834Z">
-      <url type="details">https://zen-browser.app/release-notes/1.15.5b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.15.5b</url>
     </release>
     <release version="1.15.4b" date="2025-09-06T15:57:03.294Z">
-      <url type="details">https://zen-browser.app/release-notes/1.15.4b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.15.4b</url>
     </release>
     <release version="1.15.3b" date="2025-09-02T18:55:22.689Z">
-      <url type="details">https://zen-browser.app/release-notes/1.15.3b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.15.3b</url>
     </release>
     <release version="1.15.2b" date="2025-08-29T08:07:22.260Z">
-      <url type="details">https://zen-browser.app/release-notes/1.15.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.15.2b</url>
     </release>
     <release version="1.15.1b" date="2025-08-28T21:45:11.302Z">
-      <url type="details">https://zen-browser.app/release-notes/1.15.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.15.1b</url>
     </release>
     <release version="1.15b" date="2025-08-27T12:02:49.722Z">
-      <url type="details">https://zen-browser.app/release-notes/1.15b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.15b</url>
     </release>
     <release version="1.14.11b" date="2025-08-10T19:24:45.566Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.11b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.11b</url>
     </release>
     <release version="1.14.10b" date="2025-08-06T15:50:16.233Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.10b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.10b</url>
     </release>
     <release version="1.14.9b" date="2025-07-27T13:01:42.314Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.9b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.9b</url>
     </release>
     <release version="1.14.8b" date="2025-07-26T17:46:21.857Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.8b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.8b</url>
     </release>
     <release version="1.14.7b" date="2025-07-25T18:34:13.733Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.7b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.7b</url>
     </release>
     <release version="1.14.6b" date="2025-07-24T23:41:30.217Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.6b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.6b</url>
     </release>
     <release version="1.14.5b" date="2025-07-14T09:33:44.886Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.5b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.5b</url>
     </release>
     <release version="1.14.4b" date="2025-07-11T15:41:02.498Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.4b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.4b</url>
     </release>
     <release version="1.14.3b" date="2025-07-09T19:23:27.684Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.3b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.3b</url>
     </release>
     <release version="1.14.2b" date="2025-07-04T19:11:48.853Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.2b</url>
     </release>
     <release version="1.14.1b" date="2025-07-02T07:20:40.076Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14.1b</url>
     </release>
     <release version="1.14b" date="2025-06-29T18:45:51.839Z">
-      <url type="details">https://zen-browser.app/release-notes/1.14b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.14b</url>
     </release>
     <release version="1.13.2b" date="2025-06-17T08:47:43.989Z">
-      <url type="details">https://zen-browser.app/release-notes/1.13.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.13.2b</url>
     </release>
     <release version="1.13.1b" date="2025-06-15T11:58:40.337Z">
-      <url type="details">https://zen-browser.app/release-notes/1.13.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.13.1b</url>
     </release>
     <release version="1.13b" date="2025-06-13T19:59:55.084Z">
-      <url type="details">https://zen-browser.app/release-notes/1.13b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.13b</url>
     </release>
     <release version="1.12.10b" date="2025-06-01T19:58:45.890Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.10b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.10b</url>
     </release>
     <release version="1.12.9b" date="2025-05-31T07:05:07.202Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.9b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.9b</url>
     </release>
     <release version="1.12.8b" date="2025-05-23T10:48:02.789Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.8b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.8b</url>
     </release>
     <release version="1.12.7b" date="2025-05-21T20:31:48.538Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.7b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.7b</url>
     </release>
     <release version="1.12.6b" date="2025-05-20T13:11:47.560Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.6b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.6b</url>
     </release>
     <release version="1.12.5b" date="2025-05-14T22:24:31.476Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.5b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.5b</url>
     </release>
     <release version="1.12.4b" date="2025-05-14T08:50:56.811Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.4b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.4b</url>
     </release>
     <release version="1.12.3b" date="2025-05-08T21:37:27.828Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.3b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.3b</url>
     </release>
     <release version="1.12.2b" date="2025-05-08T05:46:48.740Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.2b</url>
     </release>
     <release version="1.12.1b" date="2025-05-04T17:45:16.135Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12.1b</url>
     </release>
     <release version="1.12b" date="2025-05-03T09:12:32.989Z">
-      <url type="details">https://zen-browser.app/release-notes/1.12b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.12b</url>
     </release>
     <release version="1.11.5b" date="2025-04-19T23:53:06.179Z">
-      <url type="details">https://zen-browser.app/release-notes/1.11.5b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.11.5b</url>
     </release>
     <release version="1.11.4b" date="2025-04-18T10:27:27.107Z">
-      <url type="details">https://zen-browser.app/release-notes/1.11.4b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.11.4b</url>
     </release>
     <release version="1.11.3b" date="2025-04-14T17:38:52.615Z">
-      <url type="details">https://zen-browser.app/release-notes/1.11.3b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.11.3b</url>
     </release>
     <release version="1.11.2b" date="2025-04-11T20:47:54.153Z">
-      <url type="details">https://zen-browser.app/release-notes/1.11.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.11.2b</url>
     </release>
     <release version="1.11.1b" date="2025-04-05T10:09:15.769Z">
-      <url type="details">https://zen-browser.app/release-notes/1.11.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.11.1b</url>
     </release>
     <release version="1.11b" date="2025-04-04T21:48:09.330Z">
-      <url type="details">https://zen-browser.app/release-notes/1.11b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.11b</url>
     </release>
     <release version="1.10.3b" date="2025-03-27T21:54:53.045Z">
-      <url type="details">https://zen-browser.app/release-notes/1.10.3b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.10.3b</url>
     </release>
     <release version="1.10.2b" date="2025-03-26T07:05:16.629Z">
-      <url type="details">https://zen-browser.app/release-notes/1.10.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.10.2b</url>
     </release>
     <release version="1.10.1b" date="2025-03-21T23:47:11.073Z">
-      <url type="details">https://zen-browser.app/release-notes/1.10.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.10.1b</url>
     </release>
     <release version="1.10b" date="2025-03-19T07:02:30.059Z">
-      <url type="details">https://zen-browser.app/release-notes/1.10b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.10b</url>
     </release>
     <release version="1.9.1b" date="2025-03-12T16:17:50.449Z">
-      <url type="details">https://zen-browser.app/release-notes/1.9.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.9.1b</url>
     </release>
     <release version="1.9b" date="2025-03-08T10:05:33.994Z">
-      <url type="details">https://zen-browser.app/release-notes/1.9b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.9b</url>
     </release>
     <release version="1.8.2b" date="2025-02-26T06:39:31.117Z">
-      <url type="details">https://zen-browser.app/release-notes/1.8.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.8.2b</url>
     </release>
     <release version="1.8.1b" date="2025-02-25T06:15:27.402Z">
-      <url type="details">https://zen-browser.app/release-notes/1.8.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.8.1b</url>
     </release>
     <release version="1.8b" date="2025-02-24T05:26:05.864Z">
-      <url type="details">https://zen-browser.app/release-notes/1.8b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.8b</url>
     </release>
     <release version="1.7.6b" date="2025-02-08T09:16:54.590Z">
-      <url type="details">https://zen-browser.app/release-notes/1.7.6b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.7.6b</url>
     </release>
     <release version="1.7.5b" date="2025-02-07T14:28:06.743Z">
-      <url type="details">https://zen-browser.app/release-notes/1.7.5b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.7.5b</url>
     </release>
     <release version="1.7.4b" date="2025-01-31T05:58:50.432Z">
-      <url type="details">https://zen-browser.app/release-notes/1.7.4b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.7.4b</url>
     </release>
     <release version="1.7.3b" date="2025-01-30T20:15:16.323Z">
-      <url type="details">https://zen-browser.app/release-notes/1.7.3b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.7.3b</url>
     </release>
     <release version="1.7.2b" date="2025-01-22T18:48:06.663Z">
-      <url type="details">https://zen-browser.app/release-notes/1.7.2b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.7.2b</url>
     </release>
     <release version="1.7.1b" date="2025-01-20T06:02:22.168Z">
-      <url type="details">https://zen-browser.app/release-notes/1.7.1b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.7.1b</url>
     </release>
     <release version="1.7b" date="2025-01-16T00:55:27.476Z">
-      <url type="details">https://zen-browser.app/release-notes/1.7b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.7b</url>
     </release>
     <release version="1.6b" date="2025-01-10T07:10:18.129Z">
-      <url type="details">https://zen-browser.app/release-notes/1.6b</url>
+      <url type="details">https://enso-browser.app/release-notes/1.6b</url>
     </release>
     <release version="1.0.2-b.5" date="2024-12-24T16:18:35.335Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.2-b.5</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.2-b.5</url>
     </release>
     <release version="1.0.2-b.4" date="2024-12-24T00:43:10.765Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.2-b.4</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.2-b.4</url>
     </release>
     <release version="1.0.2-b.3" date="2024-12-20T00:25:43.485Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.2-b.3</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.2-b.3</url>
     </release>
     <release version="1.0.2-b.2" date="2024-12-15T02:10:01.886Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.2-b.2</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.2-b.2</url>
     </release>
     <release version="1.0.2-b.1" date="2024-12-12T01:50:28.976Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.2-b.1</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.2-b.1</url>
     </release>
     <release version="1.0.2-b.0" date="2024-12-10T14:10:39.232Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.2-b.0</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.2-b.0</url>
     </release>
     <release version="1.0.1-a.22" date="2024-11-28T14:59:08.063Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.22</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.22</url>
     </release>
     <release version="1.0.1-a.21" date="2024-11-28T09:14:49.368Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.21</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.21</url>
     </release>
     <release version="1.0.1-a.20" date="2024-11-27T23:27:56.430Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.20</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.20</url>
     </release>
     <release version="1.0.1-a.19" date="2024-11-10T23:26:37.152Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.19</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.19</url>
     </release>
     <release version="1.0.1-a.18" date="2024-11-09T23:53:06.248Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.18</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.18</url>
     </release>
     <release version="1.0.1-a.17" date="2024-11-01T03:23:02.013Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.17</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.17</url>
     </release>
     <release version="1.0.1-a.16" date="2024-10-31T07:46:32.224Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.16</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.16</url>
     </release>
     <release version="1.0.1-a.15" date="2024-10-31T00:11:03.604Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.15</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.15</url>
     </release>
     <release version="1.0.1-a.14" date="2024-10-28T00:30:51.651Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.14</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.14</url>
     </release>
     <release version="1.0.1-a.13" date="2024-10-27T17:03:57.583Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.13</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.13</url>
     </release>
     <release version="1.0.1-a.12" date="2024-10-19T22:30:48.371Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.12</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.12</url>
     </release>
     <release version="1.0.1-a.11" date="2024-10-19T07:23:14.773Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.11</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.11</url>
     </release>
     <release version="1.0.1-a.10" date="2024-10-15T20:33:13.975Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.10</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.10</url>
     </release>
     <release version="1.0.1-a.9" date="2024-10-15T00:01:03.771Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.9</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.9</url>
     </release>
     <release version="1.0.1-a.8" date="2024-10-10T22:05:00.054Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.8</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.8</url>
     </release>
     <release version="1.0.1-a.7" date="2024-09-30T19:45:36.547Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.7</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.7</url>
     </release>
     <release version="1.0.1-a.6" date="2024-09-30T06:06:43.098Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.6</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.6</url>
     </release>
     <release version="1.0.1-a.5" date="2024-09-25T00:07:58.102Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.5</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.5</url>
     </release>
     <release version="1.0.1-a.4" date="2024-09-23T22:42:51.890Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.4</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.4</url>
     </release>
     <release version="1.0.1-a.3" date="2024-09-23T07:20:38.096Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.3</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.3</url>
     </release>
     <release version="1.0.1-a.2" date="2024-09-18T05:49:28.018Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.2</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.2</url>
     </release>
     <release version="1.0.1-a.1" date="2024-09-17T05:43:57.482Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a.1</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a.1</url>
     </release>
     <release version="1.0.1-a" date="2024-09-16T15:07:35.498Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.1-a</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.1-a</url>
     </release>
     <release version="1.0.0-a.39" date="2024-09-10T05:18:27.947Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.0-a.39</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.0-a.39</url>
     </release>
     <release version="1.0.0-a.37" date="2024-09-07T12:09:34.545Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.0-a.37</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.0-a.37</url>
     </release>
     <release version="1.0.0-a.35" date="2024-09-03T20:52:00.000Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.0-a.35</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.0-a.35</url>
     </release>
     <release version="1.0.0-a.34" date="2024-08-30T03:13:00.000Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.0-a.34</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.0-a.34</url>
     </release>
     <release version="1.0.0-a.32" date="2024-08-28T12:38:00.000Z">
-      <url type="details">https://zen-browser.app/release-notes/1.0.0-a.32</url>
+      <url type="details">https://enso-browser.app/release-notes/1.0.0-a.32</url>
     </release>
   </releases>
 </component>

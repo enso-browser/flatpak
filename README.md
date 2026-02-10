@@ -1,2 +1,2 @@
 # flatpak
-📦 official flatpak packages for @zen-browser!
+📦 official flatpak packages for @enso-browser!
